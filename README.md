@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abetsvik
-- 👀 I’m interested in using advanced data analytics methods for biotech and clinical research, particularly in microbiome science, nutritional science, and personalized medicine.
-- 🌱 I’m currently studying Epidemiology and Applied Biostatistics at the Rutgers School of Public Health.
+- 👀 I’m interested in using advanced data analytics methods for biotech and pharmaceutical research, particularly in predictive learning and computational biology.
+- 🌱 I’m currently studying Epidemiology at the Rutgers School of Public Health.
 - 📫 Reach out by email to abe.tsvik@rutgers.edu
 
 <!---
